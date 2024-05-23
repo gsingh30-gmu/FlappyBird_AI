@@ -1,16 +1,15 @@
-# Flappy-bird-python
-A basic Flappy Bird game made in Python
+# FlappyBird AI
 
-I took the assets from https://github.com/zhaolingzhi/FlapPyBird-master | Credits to him
+This project showcases an AI model trained using reinforcement learning to play the game FlappyBird. The AI demonstrates exceptional performance, able to surpass the abilities of most human players.
 
-## Current State:
-![Screenshot](https://github.com/LeonMarqs/Flappy-bird-python/blob/master/Screenshot_1.png)
+## Features
 
-## Dependence:
-* pygame
+- **Reinforcement Learning**: The AI is trained using reinforcement learning techniques.
+- **Markov Decision Process**: The AI uses a Markov Decision Process (MDP) to make decisions in the game.
+- **Q-learning**: Q-learning is employed as the policy for the AI.
+- **Python Implementation**: The entire project is implemented in Python.
 
-## Contribution
-It's a simple model, so I'd be very grateful if you could help me to improve the game.
+# Credits
+The original game code was created by [LeonMarqs] https://github.com/LeonMarqs/Flappy-bird-python
 
-
-
+Credit for assets: https://github.com/zhaolingzhi/FlapPyBird-master
